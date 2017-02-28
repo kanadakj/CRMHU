@@ -60,3 +60,7 @@ usywanie starych danych
 	$$ faktycznie cennik 00 zawsze musi mieć podstawową walutę kampanii
 	$$ dodałem cennik 01 z EUR, 00 został wyzerowany
 ----------------------------------------------
+? brakuje cen katalogowych w sc01
+? jak wyglada sytuacja z krajami obsługiwanymi przez crm HU bo w klietach wide duza roznorodnosc krajow
+	a wywalalem wszystko co nie jest zwiazane z HU 
+
