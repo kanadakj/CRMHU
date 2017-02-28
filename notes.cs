@@ -51,7 +51,12 @@ usywanie starych danych
 usywanie starych danych 
 ----------------------------------------------
 usywanie starych danych 
-test na nowym kompie - projekt MSPLa nie bilduje sie - narzie niechce na to casu tracic wiec jak nie polepszy sie na wirtualce
++test na nowym kompie - projekt MSPLa nie bilduje sie - narazie nie chce na to casu tracic wiec jak nie polepszy sie na wirtualce
 	to jeszcze raz zobacze
-? nie pobieraja sie ceny katalogowe 
-? waluta cennika 00 jest HUF
+	$$ kopsnil error list to obacze o co chodzi albo daj pass to sproboje zbildowac
++nie pobieraja sie ceny katalogowe
+	$$ do tabel synchronizacyjnych wskoczył cennik 01
++waluta cennika 00 jest HUF
+	$$ faktycznie cennik 00 zawsze musi mieć podstawową walutę kampanii
+	$$ dodałem cennik 01 z EUR, 00 został wyzerowany
+----------------------------------------------
